@@ -17,3 +17,18 @@ A simple and responsive authentication UI built using React. This project includ
 
 ## 📁 Project Structure
 
+```
+src/
+├─ components/
+│  ├─ Login.js
+│  ├─ Signup.js
+├─ styles/
+│  └─ App.css
+├─ App.js
+├─ index.js
+public/
+├─ index.html
+.gitignore
+package.json
+README.md 
+```
