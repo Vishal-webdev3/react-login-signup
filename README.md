@@ -1,7 +1,13 @@
 # 🔐 React Login & Signup App
 
 A simple and responsive authentication UI built using React. This project includes login and signup functionality with form validation and mock authentication logic.
+---
 
+## 📸 Screenshot
+
+![react-login-signup](login.png)
+
+---
 ## 🚀 Features
 
 - ✅ Email & Password Authentication (Mocked)
